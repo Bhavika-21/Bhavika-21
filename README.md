@@ -1,5 +1,7 @@
-## Hi there, I'm Bahvika 👋
+## Hola, I'm Bhavika👋
 
+### About Me
+<p align="left">Bringing ideas to life with MongoDB, Express, React, and Node.js. Passionate about coding challenges and creating seamless user experiences.</p>
 
 ### Programming Languages and Tools:
 
