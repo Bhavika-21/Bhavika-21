@@ -1,5 +1,4 @@
-<div style="background: background: rgb(238,174,202);
-background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(242,226,211,1) 42%, rgba(244,247,215,0) 100%); color: white; padding: 20px; border-radius: 10px;">
+<div style="background: background: white; color: white; padding: 20px; border-radius: 10px;">
   <h1 align="center"> Hola, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Bhavika</h1>
 
   ### 🙋🏻‍♀️ About Me
