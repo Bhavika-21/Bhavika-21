@@ -1,4 +1,4 @@
-<div style="background: background: white; color: white; padding: 20px; border-radius: 10px;">
+
   <h1 align="center"> Hola, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Bhavika</h1>
 
   ### 🙋🏻‍♀️ About Me
@@ -34,4 +34,4 @@
 
   ### 🌱 Fun Fact:
   When I’m not coding, you’ll find me creating digital art, experimenting with coffee brewing techniques, or doing cloud doodling.
-</div>
+
