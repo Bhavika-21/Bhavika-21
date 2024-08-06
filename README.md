@@ -5,7 +5,7 @@
   <p align="left">Bringing ideas to life with MongoDB, Express, React, and Node.js. Passionate about coding challenges and creating seamless user experiences.</p>
 
   ### 🚀 What I Do:
-  - **Responsive Web Design**: Crafting pixel-perfect, responsive designs that look stunning on all devices.
+  - **Responsive Web Design**: Crafting responsive designs that look stunning on all devices.
   - **Interactive UI Development**: Building dynamic user interfaces with React and modern JavaScript frameworks.
   - **User Experience Optimization**: Enhancing usability through thoughtful UI/UX design principles.
   - **Creative Problem Solving**: Tackling front-end challenges with innovative solutions.
@@ -30,7 +30,7 @@
 
   ### 🌐 Connect with Me:
   - [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
-  - [Portfolio](https://your-portfolio.com)
+  
 
   ### 🌱 Fun Fact:
   When I’m not coding, you’ll find me creating digital art, experimenting with coffee brewing techniques, or doing cloud doodling.
