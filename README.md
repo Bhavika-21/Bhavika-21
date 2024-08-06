@@ -3,16 +3,19 @@
 
   ### 🙋🏻‍♀️ About Me
   <p align="left">Bringing ideas to life with MongoDB, Express, React, and Node.js. Passionate about coding challenges and creating seamless user experiences.</p>
+  
 
   ### 🚀 What I Do:
   - **Responsive Web Design**: Crafting responsive designs that look stunning on all devices.
   - **Interactive UI Development**: Building dynamic user interfaces with React and modern JavaScript frameworks.
   - **User Experience Optimization**: Enhancing usability through thoughtful UI/UX design principles.
   - **Creative Problem Solving**: Tackling front-end challenges with innovative solutions.
+    
 
   ### 💡 Current Focus:
   Exploring the latest in front-end technologies and design trends to create seamless user experiences. Always eager to learn and grow, I’m diving deeper into advanced React techniques and mastering UI/UX design 
   principles.
+  
 
   ### Programming Languages and Tools:
   <div>
@@ -27,10 +30,11 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="Tailwind CSS" alt="Tailwind CSS" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
   </div>
+  
 
   ### 🌐 Connect with Me:
   - [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
-  
+  - 
 
   ### 🌱 Fun Fact:
   When I’m not coding, you’ll find me creating digital art, experimenting with coffee brewing techniques, or doing cloud doodling.
